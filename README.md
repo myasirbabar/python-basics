@@ -6,6 +6,7 @@ Basic Codes for python, for building understanding
 
 #### Included Topics 
      - If Else
+     - Loops
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
