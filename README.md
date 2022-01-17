@@ -8,6 +8,7 @@ Basic Codes for python, for building understanding
      - If Else
      - Loops
      - File Handling(In .txt and .csv)
+     - Lists
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
