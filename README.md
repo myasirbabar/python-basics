@@ -9,6 +9,7 @@ Basic Codes for python, for building understanding
      - Loops
      - File Handling(In .txt and .csv)
      - Lists
+     - Dictionary
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
