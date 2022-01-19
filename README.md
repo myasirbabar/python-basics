@@ -10,6 +10,7 @@ Basic Codes for python, for building understanding
      - File Handling(In .txt and .csv)
      - Lists
      - Dictionary
+     - Numpy
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
