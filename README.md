@@ -11,6 +11,7 @@ Basic Codes for python, for building understanding
      - Lists
      - Dictionary
      - Numpy
+     - Sets
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
