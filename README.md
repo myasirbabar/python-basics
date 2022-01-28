@@ -13,6 +13,7 @@ Basic Codes for python, for building understanding
      - Numpy
      - Sets
      - Functions
+     - OOP(Classes and Objects)
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
