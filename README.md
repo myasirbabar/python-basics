@@ -14,6 +14,7 @@ Basic Codes for python, for building understanding
      - Sets
      - Functions
      - OOP(Classes and Objects)
+     - List Comprehension
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
