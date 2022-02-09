@@ -16,6 +16,9 @@ Basic Codes for python, for building understanding
      - OOP(Classes and Objects)
      - List Comprehension
      - Lambda
+     - Maps
+     - Zip
+     - Enumerate
 
 ---------------
 <a href="https://www.linkedin.com/in/myb1">
